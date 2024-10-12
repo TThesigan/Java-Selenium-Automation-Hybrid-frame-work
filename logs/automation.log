@@ -1,0 +1,266 @@
+12:57:22.064 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:57:22.077 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:57:22.078 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:57:22.111 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:57:22.112 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:57:22.113 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:57:22.125 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:57:22.125 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:57:22.126 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:57:22.137 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:57:22.138 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:57:22.138 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:57:22.152 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:57:22.152 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:57:22.153 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:00:33.019 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\grouping.xml"
+13:00:33.217 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\grouping.xml
+
+13:01:17.602 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\grouping.xml"
+13:01:17.795 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\grouping.xml
+
+13:01:22.393 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\grouping.xml"
+13:01:22.583 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\grouping.xml
+
+13:01:43.889 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\grouping.xml"
+13:01:44.073 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\grouping.xml
+
+13:02:21.151 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\grouping.xml"
+13:02:21.356 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\grouping.xml
+
+13:02:23.058 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest *****
+13:02:23.132 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My account
+13:02:23.444 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+13:02:44.893 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\grouping.xml"
+13:02:45.087 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\grouping.xml
+
+13:02:46.754 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest *****
+13:02:46.836 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My account
+13:02:47.145 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+13:03:17.910 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\grouping.xml"
+13:03:18.093 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\grouping.xml
+
+13:05:03.460 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\grouping.xml"
+13:05:03.660 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\grouping.xml
+
+13:05:05.297 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest *****
+13:05:05.383 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My account
+13:05:05.702 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+13:05:34.322 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\grouping.xml"
+13:05:34.530 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\grouping.xml
+
+13:05:36.144 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest *****
+13:05:36.222 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My account
+13:05:36.545 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+23:13:04.405 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\master.xml"
+23:13:04.609 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\master.xml
+
+23:13:09.798 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest *****
+23:13:09.870 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My account
+23:13:10.307 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+23:19:08.740 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\master.xml"
+23:19:08.947 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\master.xml
+
+23:19:10.740 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest *****
+23:19:10.818 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My account
+23:19:11.112 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+00:50:37.984 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\master.xml"
+00:50:38.200 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\master.xml
+
+00:50:45.219 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest *****
+00:50:45.297 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My account
+00:50:45.738 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+00:54:06.847 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\master.xml"
+00:54:07.049 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\master.xml
+
+00:54:09.205 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest *****
+00:54:09.304 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My account
+00:54:09.619 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+00:56:01.262 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\crossbrowsertesting.xml"
+00:56:01.451 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\crossbrowsertesting.xml
+
+00:56:03.187 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest *****
+00:56:03.286 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My account
+00:56:03.595 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+00:56:07.849 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest *****
+00:56:07.926 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My account
+00:56:08.259 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+00:56:28.810 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\crossbrowsertesting.xml"
+00:56:29.000 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\crossbrowsertesting.xml
+
+00:56:31.072 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest *****
+00:56:31.072 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest *****
+00:56:31.156 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My account
+00:56:31.178 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My account
+00:57:34.508 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\crossbrowsertesting.xml"
+00:57:34.705 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\crossbrowsertesting.xml
+
+00:57:36.496 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest *****
+00:57:36.588 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My account
+00:57:36.917 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+01:01:22.218 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\crossbrowsertesting.xml"
+01:01:22.411 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\crossbrowsertesting.xml
+
+01:01:24.427 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest *****
+01:01:24.532 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My account
+01:01:24.909 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+01:01:25.927 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest *****
+01:01:26.022 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My account
+01:01:26.406 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+10:54:17.666 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\gridDocker.xml"
+10:54:18.091 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\gridDocker.xml
+
+11:02:01.727 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\gridDocker.xml"
+11:02:02.087 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\gridDocker.xml
+
+11:04:16.491 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\master.xml"
+11:04:16.859 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\master.xml
+
+11:04:59.557 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\master.xml"
+11:04:59.974 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\master.xml
+
+11:05:58.225 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest *****
+11:05:58.368 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My account
+11:05:59.125 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+11:10:26.361 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\gridDocker.xml"
+11:10:26.741 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\gridDocker.xml
+
+11:11:25.520 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\gridDocker.xml"
+11:11:25.877 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\gridDocker.xml
+
+11:25:00.669 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\gridDocker.xml"
+11:25:01.004 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\gridDocker.xml
+
+11:40:18.789 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\gridDocker.xml"
+11:40:19.127 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\gridDocker.xml
+
+11:42:11.502 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\gridDocker.xml"
+11:42:11.850 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\gridDocker.xml
+
+11:43:23.503 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\master.xml"
+11:43:23.857 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\master.xml
+
+11:43:26.904 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest *****
+11:43:27.057 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My account
+11:43:27.673 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+12:03:18.933 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\master.xml"
+12:03:19.148 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\master.xml
+
+12:03:20.965 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest *****
+12:03:21.059 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My account
+12:03:21.504 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+12:03:50.908 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\gridDocker.xml"
+12:03:51.100 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\gridDocker.xml
+
+12:18:21.784 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\gridDocker.xml"
+12:18:21.996 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\gridDocker.xml
+
+12:26:16.358 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\gridDocker.xml"
+12:26:16.584 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\gridDocker.xml
+
+12:29:37.974 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\gridDocker.xml"
+12:29:38.174 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\gridDocker.xml
+
+12:31:34.830 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\gridDocker.xml"
+12:31:35.045 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\gridDocker.xml
+
+12:32:38.933 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\gridDocker.xml"
+12:32:39.127 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\gridDocker.xml
+
+18:39:20.400 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\gridDocker.xml"
+18:39:20.604 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\gridDocker.xml
+
+18:40:18.352 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\gridDocker.xml"
+18:40:18.544 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\gridDocker.xml
+
+18:40:49.856 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\gridDocker.xml"
+18:40:50.075 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\gridDocker.xml
+
+18:44:50.306 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\gridDocker.xml"
+18:44:50.510 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\gridDocker.xml
+
+18:48:17.313 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\master.xml"
+18:48:17.520 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\master.xml
+
+18:48:21.800 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest *****
+18:48:21.883 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My account
+18:48:22.410 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+18:49:16.624 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\gridDocker.xml"
+18:49:16.823 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\gridDocker.xml
+
+18:55:56.279 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\gridDocker.xml"
+18:55:56.478 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\gridDocker.xml
+
+18:57:54.675 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\gridDocker.xml"
+18:57:54.873 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\gridDocker.xml
+
+19:08:13.310 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\gridDocker.xml"
+19:08:13.577 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\gridDocker.xml
+
+19:08:34.428 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\gridDocker.xml"
+19:08:34.636 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\gridDocker.xml
+
+19:35:44.334 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\gridDocker.xml"
+19:35:44.548 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\gridDocker.xml
+
+19:36:59.575 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\gridDocker.xml"
+19:36:59.786 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Learning\Java Projects\mycart\gridDocker.xml
+
+20:13:00.636 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\master.xml"
+20:13:04.318 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest *****
+20:13:04.405 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My account
+20:13:04.763 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+20:31:46.760 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\master.xml"
+20:31:48.882 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest *****
+20:31:48.971 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My account
+20:31:49.332 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+20:37:55.688 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Learning\Java Projects\mycart\master.xml"
+20:37:57.849 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest *****
+20:37:57.939 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My account
+20:37:58.279 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
